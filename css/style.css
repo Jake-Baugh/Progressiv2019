@@ -47,7 +47,7 @@ theme.
 
 */
 /* GOOGLE FONTS */
-@import url("https://fonts.googleapis.com/css?family=Montserrat|Source+Sans+Pro:300,400,600,800&subset=latin-ext");
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Source+Sans+Pro:300,400,500,600,700,800&subset=latin-ext");
 * {
   outline: none !important;
 }
@@ -2637,7 +2637,7 @@ margin-bottom: 30px;
   }
 
   .header .gallery-thumbs .swiper-slide a {
-    margin-top: 0;bottom: -20px;
+    margin-top: 0;
   }
 
   .particles-mask {
