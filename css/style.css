@@ -2633,6 +2633,7 @@ margin-bottom: 30px;
 
   .header .gallery-thumbs .swiper-slide {
     font-size: 60px;
+    line-height: 64px
   }
 
   .header .gallery-thumbs .swiper-slide a {
