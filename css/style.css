@@ -2637,7 +2637,7 @@ margin-bottom: 30px;
   }
 
   .header .gallery-thumbs .swiper-slide a {
-    margin-top: 0;
+    margin-top: 0;bottom: -20px;
   }
 
   .particles-mask {
